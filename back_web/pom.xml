@@ -29,6 +29,12 @@
 			<artifactId>back_model</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
+		
+		<dependency>
+			<groupId>com.ipartek.formacion</groupId>
+			<artifactId>back_service</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 
 		<dependency>
 			<groupId>junit</groupId>
